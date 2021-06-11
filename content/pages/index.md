@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Fine Line National
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Creating daily wins with YourGoal.
     actions:
       - label: Try for free
         url: /pricing
