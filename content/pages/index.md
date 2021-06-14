@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Fine Lines, Big Wins'
-    subtitle: Creating daily wins with YourGoal.
+    subtitle: Here's How It Works!
     actions:
       - label: Try for free
         url: /pricing
