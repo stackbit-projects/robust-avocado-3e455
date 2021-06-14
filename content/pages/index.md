@@ -5,7 +5,7 @@ sections:
     title: Fine Lines
     subtitle: Here's How It Works!
     actions:
-      - label: Try for free
+      - label: Step One
         url: /pricing
         style: primary
         icon_position: center
