@@ -25,7 +25,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: none
-    background_image: /images/easy_step1.png
+    background_image: /images/curious-hickory.jpg
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
