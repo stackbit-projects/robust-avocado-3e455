@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Fine Lines, Big Wins'
+    title: Fine Lines
     subtitle: Here's How It Works!
     actions:
       - label: Try for free
