@@ -8,6 +8,7 @@ sections:
       - label: Try for free
         url: /pricing
         style: primary
+        icon_position: right
       - label: lorem-ipsum
         url: '#'
         style: link
